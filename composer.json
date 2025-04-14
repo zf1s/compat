@@ -1,0 +1,22 @@
+{
+    "name": "zf1s/compat",
+    "type": "library",
+    "description": "zf1s (Zend Framework 1) compatibility package",
+    "homepage": "https://github.com/zf1s/compat",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Gil",
+            "email": "mg@ovos.at",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zf1s\\Compat\\": "src"
+        }
+    }
+}
