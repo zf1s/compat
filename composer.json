@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zf1s\\Compat\\": "src"
+            "Zf1s\\Compat\\": "src/"
         }
     }
 }
